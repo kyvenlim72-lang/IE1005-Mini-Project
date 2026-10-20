@@ -1,0 +1,255 @@
+{
+  "raw_rows": 8807,
+  "clean_rows": 8686,
+  "excluded_counts": {
+    "Unrated label": 83,
+    "Repeated description (keep first)": 31,
+    "Missing rating": 4,
+    "Unexpected rating": 3
+  },
+  "group_counts": {
+    "Not 18+": 4682,
+    "18+": 4004
+  },
+  "train_rows": 6948,
+  "test_rows": 1738,
+  "selected_nb": "Naive Bayes: both",
+  "cv_results": [
+    {
+      "Model": "Naive Bayes: description",
+      "CV Macro F1": 0.6648912407971768,
+      "Best alpha": 0.5
+    },
+    {
+      "Model": "Naive Bayes: genre",
+      "CV Macro F1": 0.6720470050025814,
+      "Best alpha": 0.5
+    },
+    {
+      "Model": "Naive Bayes: both",
+      "CV Macro F1": 0.6953082883522106,
+      "Best alpha": 1.0
+    }
+  ],
+  "test_results": [
+    {
+      "Model": "Majority baseline",
+      "Accuracy": 0.5391254315304949,
+      "Macro F1": 0.3502803738317757
+    },
+    {
+      "Model": "Decision tree: both",
+      "Accuracy": 0.6162255466052935,
+      "Macro F1": 0.5369837155901925
+    },
+    {
+      "Model": "Naive Bayes: description",
+      "Accuracy": 0.667433831990794,
+      "Macro F1": 0.6664160657335988
+    },
+    {
+      "Model": "Naive Bayes: genre",
+      "Accuracy": 0.6869965477560415,
+      "Macro F1": 0.6767113095238095
+    },
+    {
+      "Model": "Naive Bayes: both",
+      "Accuracy": 0.7082853855005754,
+      "Macro F1": 0.7072167606597379
+    }
+  ],
+  "confusion_matrix": [
+    [
+      668,
+      269
+    ],
+    [
+      238,
+      563
+    ]
+  ],
+  "class_order": [
+    "Not 18+",
+    "18+"
+  ],
+  "classification_report": {
+    "Not 18+": {
+      "precision": 0.7373068432671082,
+      "recall": 0.7129135538954109,
+      "f1-score": 0.7249050461204558,
+      "support": 937.0
+    },
+    "18+": {
+      "precision": 0.6766826923076923,
+      "recall": 0.7028714107365793,
+      "f1-score": 0.6895284751990202,
+      "support": 801.0
+    },
+    "accuracy": 0.7082853855005754,
+    "macro avg": {
+      "precision": 0.7069947677874002,
+      "recall": 0.7078924823159951,
+      "f1-score": 0.7072167606597379,
+      "support": 1738.0
+    },
+    "weighted avg": {
+      "precision": 0.7093667138548572,
+      "recall": 0.7082853855005754,
+      "f1-score": 0.7086008842631084,
+      "support": 1738.0
+    }
+  },
+  "genre_share": [
+    {
+      "Genre": "Kids' TV",
+      "TitleCount": 363,
+      "AdultShare": 0.0
+    },
+    {
+      "Genre": "Children & Family Movies",
+      "TitleCount": 505,
+      "AdultShare": 0.0019801980198019802
+    },
+    {
+      "Genre": "Korean TV Shows",
+      "TitleCount": 125,
+      "AdultShare": 0.328
+    },
+    {
+      "Genre": "Reality TV",
+      "TitleCount": 203,
+      "AdultShare": 0.33497536945812806
+    },
+    {
+      "Genre": "Anime Series",
+      "TitleCount": 145,
+      "AdultShare": 0.3448275862068966
+    },
+    {
+      "Genre": "Romantic Movies",
+      "TitleCount": 493,
+      "AdultShare": 0.3488843813387424
+    },
+    {
+      "Genre": "Romantic TV Shows",
+      "TitleCount": 294,
+      "AdultShare": 0.3707482993197279
+    },
+    {
+      "Genre": "Comedies",
+      "TitleCount": 1334,
+      "AdultShare": 0.37631184407796103
+    },
+    {
+      "Genre": "Music & Musicals",
+      "TitleCount": 300,
+      "AdultShare": 0.38333333333333336
+    },
+    {
+      "Genre": "Sci-Fi & Fantasy",
+      "TitleCount": 204,
+      "AdultShare": 0.4019607843137255
+    },
+    {
+      "Genre": "Documentaries",
+      "TitleCount": 659,
+      "AdultShare": 0.40364188163884673
+    },
+    {
+      "Genre": "Sports Movies",
+      "TitleCount": 163,
+      "AdultShare": 0.4110429447852761
+    },
+    {
+      "Genre": "British TV Shows",
+      "TitleCount": 194,
+      "AdultShare": 0.4484536082474227
+    },
+    {
+      "Genre": "International Movies",
+      "TitleCount": 2129,
+      "AdultShare": 0.45279473931423203
+    },
+    {
+      "Genre": "TV Comedies",
+      "TitleCount": 474,
+      "AdultShare": 0.46624472573839665
+    },
+    {
+      "Genre": "Docuseries",
+      "TitleCount": 319,
+      "AdultShare": 0.47962382445141066
+    },
+    {
+      "Genre": "Action & Adventure",
+      "TitleCount": 675,
+      "AdultShare": 0.4962962962962963
+    },
+    {
+      "Genre": "Dramas",
+      "TitleCount": 1895,
+      "AdultShare": 0.5034300791556728
+    },
+    {
+      "Genre": "TV Action & Adventure",
+      "TitleCount": 135,
+      "AdultShare": 0.5333333333333333
+    },
+    {
+      "Genre": "International TV Shows",
+      "TitleCount": 1087,
+      "AdultShare": 0.5344986200551978
+    },
+    {
+      "Genre": "TV Dramas",
+      "TitleCount": 619,
+      "AdultShare": 0.5702746365105008
+    },
+    {
+      "Genre": "Thrillers",
+      "TitleCount": 470,
+      "AdultShare": 0.6829787234042554
+    },
+    {
+      "Genre": "Independent Movies",
+      "TitleCount": 589,
+      "AdultShare": 0.7215619694397284
+    },
+    {
+      "Genre": "Horror Movies",
+      "TitleCount": 289,
+      "AdultShare": 0.7301038062283737
+    },
+    {
+      "Genre": "Crime TV Shows",
+      "TitleCount": 374,
+      "AdultShare": 0.7486631016042781
+    },
+    {
+      "Genre": "Spanish-Language TV Shows",
+      "TitleCount": 124,
+      "AdultShare": 0.782258064516129
+    },
+    {
+      "Genre": "Stand-Up Comedy",
+      "TitleCount": 267,
+      "AdultShare": 0.8838951310861424
+    }
+  ],
+  "demo_predictions": [
+    {
+      "Title": "Forest Friends",
+      "PredictedGroup": "Not 18+"
+    },
+    {
+      "Title": "The Missing Witness",
+      "PredictedGroup": "18+"
+    },
+    {
+      "Title": "Second Chance",
+      "PredictedGroup": "Not 18+"
+    }
+  ],
+  "tokens": 17163,
+  "conflicting_description_groups": 2
+}

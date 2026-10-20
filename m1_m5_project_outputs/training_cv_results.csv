@@ -1,0 +1,4 @@
+Model,CV Macro F1,Best alpha
+Naive Bayes: description,0.6648912407971768,0.5
+Naive Bayes: genre,0.6720470050025814,0.5
+Naive Bayes: both,0.6953082883522106,1.0
