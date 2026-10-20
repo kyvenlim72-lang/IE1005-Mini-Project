@@ -86,7 +86,7 @@ s6827,Gangs of New York,25,151,1,1
 s1988,Residue,22,137,2,1
 s4314,"Out of Many, One",23,138,1,1
 s4213,And Breathe Normally,21,151,3,1
-s1861,The Cabin with Bert Kreischer,27,152,2,1
+s1861,The Cabin with Bert Kreischer,27,152,2,-1
 s7962,Scream 2,23,136,1,1
 s1191,Skylines,23,132,1,1
 s2590,Psycho,24,149,3,1
@@ -191,7 +191,7 @@ s1390,Friendsgiving,23,150,1,1
 s5465,The Day Will Come,24,148,2,1
 s61,Naruto Shippuden: The Movie: The Lost Tower,29,147,3,1
 s2801,Masameer - The Movie,25,149,2,1
-s7983,Sensitive Skin,26,145,1,-1
+s7983,Sensitive Skin,26,145,1,1
 s4208,When Heroes Fly,26,148,3,1
 s8705,We Belong Together,22,136,1,1
 s5844,Hibana: Spark,23,145,2,1
@@ -311,7 +311,7 @@ s5733,Love Now,29,149,3,1
 s3594,Uyare,20,114,2,1
 s8663,Union Leader,24,143,3,1
 s7503,Monster Math Squad,28,146,1,1
-s4051,Weapon of Choice,25,152,2,1
+s4051,Weapon of Choice,25,152,2,-1
 s508,Three Thieves,25,143,2,1
 s2960,Itaewon Class,25,141,3,1
 s562,Austin Powers in Goldmember,22,139,2,1
@@ -341,7 +341,7 @@ s8134,Survivors Guide to Prison,21,144,1,1
 s4023,More to Say,22,120,3,1
 s7780,Power Rangers Super Samurai,21,136,1,1
 s7164,Kacche Dhaagey,20,117,3,1
-s722,Rogue Warfare: Death of a Nation,26,152,1,-1
+s722,Rogue Warfare: Death of a Nation,26,152,1,1
 s3369,A Little Thing Called First Love,24,139,3,1
 s1711,Fruitvale Station,25,149,2,1
 s636,Here Comes the Rain,27,145,2,1
@@ -429,7 +429,7 @@ s3675,PILI Fantasy: War of Dragons,26,145,3,1
 s4243,Taylor Swift reputation Stadium Tour,23,141,1,1
 s1754,Elliot the Littlest Reindeer,21,141,1,1
 s7845,Red Dawn,22,146,2,1
-s418,Chhota Bheem in African Safari,26,152,1,-1
+s418,Chhota Bheem in African Safari,26,152,1,1
 s3565,Marriage Palace,27,147,2,1
 s4256,Life Ki Toh Lag Gayi,27,147,3,1
 s6282,Ben 10,24,136,1,1
@@ -528,7 +528,7 @@ s596,Stuart Little,28,152,2,1
 s1015,PJ Masks,23,131,1,1
 s1299,Sisyphus,26,148,3,1
 s6602,Devlok with Devdutt Pattanaik,20,148,1,1
-s1417,Night Stalker: The Hunt for a Serial Killer,25,152,2,1
+s1417,Night Stalker: The Hunt for a Serial Killer,25,152,2,-1
 s5373,Ari Shaffir: Double Negative,19,128,1,1
 s3905,The Ruthless,24,139,2,1
 s3231,The Crime,19,123,3,1
@@ -648,7 +648,7 @@ s4126,The Last of the Schmucks,31,151,2,-1
 s5306,Narcos,17,114,3,1
 s2257,Born Racer,24,125,2,-1
 s7154,"Justice, My Foot!",26,146,3,1
-s4337,Crossroads: One Two Jaga,25,147,2,1
+s4337,Crossroads: One Two Jaga,25,148,2,1
 s3890,Money Trap,27,151,3,1
 s6351,Bobby,25,141,3,1
 s7129,Jewel's Catch One,25,149,2,1
@@ -724,7 +724,7 @@ s6601,Devil's Gate,25,147,3,1
 s7844,Red Christmas,24,144,1,1
 s3317,Bella and the Bulldogs,24,143,2,1
 s5452,Jackie: A Tale of Two Sisters,19,139,1,1
-s3032,Betty White: First Lady of Television,21,143,1,1
+s3032,Betty White: First Lady of Television,21,144,1,1
 s2232,The Millions,26,137,2,1
 s1244,Black or White,19,137,1,1
 s2025,Night of Knots,27,151,3,1
@@ -743,7 +743,7 @@ s8331,The Great Battle,23,144,3,1
 s5975,แผนร้ายนายเจ้าเล่ห์,20,116,3,1
 s1355,Heartland,26,146,1,1
 s6186,Arthur,25,138,2,1
-s3018,Jezebel,25,152,2,1
+s3018,Jezebel,25,152,2,-1
 s7517,Mr. Church,23,140,1,1
 s5639,Very Big Shot,26,148,3,1
 s7112,Jack of all Trades,24,147,2,1
@@ -799,7 +799,7 @@ s2388,4th Republic,20,144,3,1
 s8154,Tattah,23,123,2,1
 s8232,The Bund,26,148,3,1
 s7542,My Little Pony Equestria Girls: Friendship Games,21,147,2,1
-s3865,Flinch,26,145,1,-1
+s3865,Flinch,26,145,1,1
 s6745,Fear Files... Har Mod Pe Darr,18,112,3,1
 s4346,Once a Gangster,27,144,3,1
 s4363,Bumping Mics with Jeff Ross & Dave Attell,29,150,2,1
@@ -857,7 +857,7 @@ s954,The Whole Truth,24,149,2,1
 s7248,Kya Kehna,19,121,3,1
 s7327,"Lock, Stock and Two Smoking Barrels",23,137,3,1
 s2418,13 Reasons Why,21,128,3,1
-s7591,No Entry,21,124,2,1
+s7591,No Entry,21,125,2,1
 s8089,Step Outside,17,100,2,1
 s930,Dead Again in Tombstone,28,151,2,1
 s8345,The Heyday of the Insensitive Bastards,23,139,2,1
@@ -936,7 +936,7 @@ s4725,Guzaarish,26,148,2,1
 s2044,Villain,26,148,1,1
 s3692,DreamWorks Kung Fu Panda Awesome Secrets,26,148,3,1
 s5923,Lilyhammer,18,119,3,1
-s2509,Sweet Magnolias,25,152,2,1
+s2509,Sweet Magnolias,25,152,2,-1
 s2306,21 Again,26,148,2,1
 s7058,Imagine That,24,147,3,1
 s6702,Enter the Dragon,25,146,2,1
@@ -990,7 +990,7 @@ s3447,Noblemen,24,148,3,1
 s3160,Good and Prosperous,19,139,2,1
 s3619,Crazy Beautiful You,23,145,3,1
 s3831,Merata: How Mum Decolonised the Screen,19,126,1,1
-s3617,Badla,29,151,2,1
+s3617,Badla,29,152,2,1
 s7100,Ishqedarriyaan,24,136,3,1
 s805,Population 436,27,149,2,1
 s2663,The Midnight Gospel,20,146,1,1
@@ -1075,9 +1075,9 @@ s2062,Barbie Princess Adventure,22,124,2,1
 s6956,Hell on Wheels,24,149,2,1
 s6668,Eh Janam Tumhare Lekhe,26,133,2,1
 s4131,Tayee,20,125,2,1
-s2131,Nigerian Prince,25,152,2,1
+s2131,Nigerian Prince,25,152,2,-1
 s4577,Khido Khundi,25,144,3,1
-s3644,The Great Hack,26,152,1,-1
+s3644,The Great Hack,26,152,1,1
 s6865,Gol Maal,27,149,3,1
 s219,Titletown High,26,149,2,1
 s8461,The Player,26,149,2,1
@@ -1145,18 +1145,18 @@ s6323,Black Hawk Down,23,146,2,1
 s827,Bo Burnham: Inside,18,95,1,-1
 s4102,Candyflip,25,147,3,1
 s8004,Sherlock Holmes,27,142,2,1
-s2772,Uncorked,25,152,2,1
+s2772,Uncorked,25,152,2,-1
 s4835,Ali's Wedding,27,149,3,1
 s621,Droppin' Cash: Los Angeles,25,141,1,1
 s5998,2015 Dream Concert,25,150,2,1
 s758,Breaking Boundaries: The Science Of Our Planet,18,128,1,1
 s5710,Mercy,24,142,2,1
 s6091,Addicted to Life,20,140,3,1
-s378,Bartkowiak,27,152,2,1
+s378,Bartkowiak,27,152,2,-1
 s37,The Stronghold,28,147,3,1
 s7075,Indiscretion,21,150,2,1
 s7151,Junebug,25,147,3,1
-s1885,Walk Away from Love,27,152,2,1
+s1885,Walk Away from Love,27,152,2,-1
 s3072,Reply 1988,27,148,3,1
 s3820,Jonaki,22,146,3,1
 s3398,ChuChuTV Surprise Eggs Learning Videos (Hindi),17,115,1,1
@@ -1473,10 +1473,10 @@ s2147,The Lost Husband,26,150,2,1
 s3731,The Wolf's Call,26,145,3,1
 s4150,Paprika,22,143,1,1
 s795,Gold Statue,24,139,3,1
-s179,The Interview,25,152,2,1
+s179,The Interview,25,152,2,-1
 s8716,Welcome to New York,23,129,2,1
 s5304,Manoranjan,28,148,3,1
-s1450,Dream Home Makeover,26,145,1,-1
+s1450,Dream Home Makeover,26,145,1,1
 s4901,Spiritual House,17,147,2,-1
 s1047,Only Mine,21,122,1,1
 s729,The Devil Below,27,145,1,1
@@ -1502,7 +1502,7 @@ s8635,Troy: The Odyssey,20,139,1,1
 s6937,Haseena Maan Jaayegi,23,149,3,1
 s826,Dirty John,23,144,3,1
 s5827,Real Crime: Diamond Geezers,26,148,1,1
-s6800,Freeway: Crack in the System,24,147,1,1
+s6800,Freeway: Crack in the System,24,148,1,1
 s1926,You Cannot Hide,24,144,3,1
 s4601,Race,20,129,3,1
 s2029,Son Of Adam,21,131,3,1
@@ -1510,7 +1510,7 @@ s5547,Five Nights in Maine,25,144,2,1
 s7351,Love Shot,20,122,2,1
 s606,The Long Riders,21,144,1,1
 s675,Pose,29,152,1,1
-s2106,Hoops,26,144,1,-1
+s2106,Hoops,26,144,1,1
 s6767,Fix It and Finish It,23,147,1,1
 s3414,Verses of Love 2,28,145,3,1
 s2172,Almost Love,18,113,3,1
@@ -1614,7 +1614,7 @@ s6670,Ek Hasina Thi,23,149,3,1
 s2707,The Killing of a Sacred Deer,23,148,3,1
 s5874,Ip Man,25,143,3,1
 s1216,Romantik Komedi,25,146,3,1
-s4184,The World's Most Extraordinary Homes,19,150,3,-1
+s4184,The World's Most Extraordinary Homes,19,150,3,1
 s2922,Narcos: Mexico,26,146,3,1
 s6375,Breaking Free,24,144,3,1
 s8691,Wake Up,22,145,2,1
@@ -1622,7 +1622,7 @@ s3994,The Unmarried Wife,23,146,3,1
 s3684,Cristina,22,139,1,1
 s5155,The Many Faces of Ito,23,140,3,1
 s4125,The Tree of Blood,25,150,3,1
-s1494,Isa Pa with Feelings,25,152,2,1
+s1494,Isa Pa with Feelings,25,152,2,-1
 s6561,Dangerous Roads,20,127,2,1
 s4773,Meteor Garden,24,150,3,1
 s6648,Dream Big: Engineering Our World,17,129,1,1
@@ -1756,7 +1756,7 @@ s1746,Ya no estoy aquí: Una conversación entre Guillermo del Toro y Alfonso Cu
 s8072,Spotlight,21,138,2,1
 s5960,21,22,143,1,1
 s3501,Between Two Ferns: The Movie,22,148,1,1
-s2813,Digs & Discoveries: Mines of Mystery,26,152,1,-1
+s2813,Digs & Discoveries: Mines of Mystery,26,152,1,1
 s1217,Romantik Komedi 2: Bekarlığa Veda,28,150,3,1
 s1142,Wazir,22,146,3,1
 s2602,Rich in Love,28,142,3,1
@@ -1828,7 +1828,7 @@ s1825,Taxi Ballad,25,142,2,1
 s3406,Seventeen,24,150,3,1
 s7035,Hypersomnia,24,142,3,1
 s2406,DC's Legends of Tomorrow,23,135,2,1
-s948,State of Play,27,152,2,1
+s948,State of Play,27,152,2,-1
 s8638,Trumbo,24,147,2,1
 s8654,Ugly Duckling,22,145,3,1
 s8436,The Natural,25,150,3,1
@@ -1881,7 +1881,7 @@ s8264,The D Train,27,150,1,1
 s8248,The Christmas Candle,25,149,2,1
 s1129,S.W.A.T.: Under Siege,23,152,2,-1
 s8571,Theater of Life,27,148,1,1
-s3910,Super Monsters Furever Friends,27,134,1,-1
+s3910,Super Monsters Furever Friends,27,134,1,1
 s4861,Aiyaary,29,150,3,1
 s327,Beethoven's 2nd,24,137,2,1
 s2186,Latte and the Magic Waterstone,28,152,2,1
@@ -2003,7 +2003,7 @@ s1875,Bigflo & Oli: Hip Hop Frenzy,26,146,3,1
 s1406,Outside the Wire,28,148,1,1
 s557,The 8th Night,27,149,3,1
 s13,Je Suis Karl,25,141,2,1
-s6165,Anger Management,26,144,1,-1
+s6165,Anger Management,26,144,1,1
 s4878,End Game,20,144,1,1
 s5721,Einsatzgruppen: The Nazi Death Squads,21,146,2,1
 s297,Hit & Run,28,152,3,-1
@@ -2179,7 +2179,7 @@ s6933,Harry & Bunnie,18,112,2,1
 s7622,Now More Than Ever: The History of Chicago,20,146,2,1
 s4722,Fashion,23,135,2,1
 s3879,Hong Kong West Side Stories,23,137,3,1
-s7278,LeapFrog: Phonics Farm,26,145,1,-1
+s7278,LeapFrog: Phonics Farm,26,145,1,1
 s630,A Way Back Home,24,138,2,1
 s7434,Medium,24,149,3,1
 s185,Sparking Joy,26,148,1,1
@@ -2187,7 +2187,7 @@ s489,Virgin River,28,148,2,1
 s4603,Saadey CM Saab,26,148,3,1
 s2863,"Pop, Lock 'n Roll",24,151,3,1
 s8424,The Minimighty Kids,26,144,2,1
-s1075,Motu Patlu the Superheroes – Super Villains from Mars,26,152,1,-1
+s1075,Motu Patlu the Superheroes – Super Villains from Mars,26,152,1,1
 s2204,Shameless (U.S.),23,147,2,1
 s7656,Once In A Lifetime Sessions with Nile Rodgers,22,145,2,1
 s3767,Pachamama,28,141,1,1
@@ -2398,12 +2398,12 @@ s8140,Sweet Virginia,23,135,3,1
 s5913,The Other One: The Long Strange Trip of Bob Weir,25,145,2,1
 s1059,Fate: The Winx Saga,22,150,3,1
 s4555,Parrot Sketch Not Included: Twenty Years of Monty Python,22,139,1,1
-s1839,In a Valley of Violence,26,145,1,-1
+s1839,In a Valley of Violence,26,145,1,1
 s364,The Vault,27,146,3,1
 s8761,Would You Rather,27,150,3,1
 s1793,Guillermo Vilas: Settling the Score,24,147,3,1
 s2545,Action Replayy,28,150,3,1
-s901,"Money, Explained",26,144,1,-1
+s901,"Money, Explained",26,144,1,1
 s2830,Marc Maron: End Times Fun,22,149,1,1
 s7681,Oru Vishsheshapetta Biryani Kissa,20,122,3,1
 s7674,Operation Odessa,26,141,1,1
@@ -2568,7 +2568,7 @@ s8359,The Incident,25,146,3,1
 s6576,De Palma,22,147,1,1
 s7465,Miss Hokusai,24,149,1,1
 s641,Jiva!,21,130,2,1
-s6142,American Hangman,26,145,1,-1
+s6142,American Hangman,26,145,1,1
 s7884,Rocky V,23,138,2,1
 s1455,Good Hair,21,116,1,1
 s622,Legend of Exorcism,22,134,3,1
@@ -2616,7 +2616,7 @@ s4862,Lupin the 3rd: The Castle of Cagliostro: Special Edition,22,141,3,1
 s2065,Borgen,24,143,2,1
 s8526,The Taking of Pelham 123,26,149,1,1
 s3008,WHAT DID JACK DO?,10,61,2,-1
-s2005,Wish Upon a Unicorn,26,152,1,-1
+s2005,Wish Upon a Unicorn,26,152,1,1
 s8619,Trash Fire,23,150,3,1
 s6133,America's Book of Secrets,20,146,1,1
 s2384,The Chase,22,145,1,1
@@ -2625,7 +2625,7 @@ s7752,Platoon,20,151,3,1
 s595,Star Trek,24,153,2,-1
 s7515,Mountain,21,149,3,1
 s3609,Jane The Virgin,23,139,3,1
-s1719,Trial 4,27,152,2,1
+s1719,Trial 4,27,152,2,-1
 s6134,American Anarchist,23,148,1,1
 s902,Deadly Switch,26,152,2,-1
 s759,Feel Good,21,148,3,1
@@ -2653,7 +2653,7 @@ s4547,Monty Python: Live at Aspen,20,119,2,1
 s5014,Something Huge,28,149,3,1
 s8647,Twirlywoos,22,147,2,1
 s2072,Puss in Boots,27,150,2,1
-s6465,Chhota Bheem Kungfu Dhamaka,26,152,1,-1
+s6465,Chhota Bheem Kungfu Dhamaka,26,152,1,1
 s6204,B.A. Pass,27,150,3,1
 s7262,Lady Bloodfight,21,135,1,1
 s4880,Kong: King of the Apes,28,140,1,-1
@@ -2719,7 +2719,7 @@ s921,Selena: The Series,21,135,1,1
 s8215,The Blue Planet: A Natural History of the Oceans,22,149,3,1
 s4994,The Outsider,24,141,2,1
 s3720,Bolívar,23,148,3,1
-s4365,My Little Pony Friendship Is Magic: Best Gift Ever,26,144,1,-1
+s4365,My Little Pony Friendship Is Magic: Best Gift Ever,26,144,1,1
 s7417,Mary and the Witch's Flower,24,146,2,1
 s3382,The Untamed,25,145,3,1
 s3888,Chambers,23,146,3,1
@@ -2865,13 +2865,13 @@ s3400,In My Country,25,149,2,1
 s8360,The Incredible Story of the Giant Pear,24,152,1,-1
 s4244,The Seven Deadly Sins the Movie: Prisoners of the Sky,25,145,3,1
 s2931,Love for Sale 2,21,125,3,1
-s41,He-Man and the Masters of the Universe,25,152,2,1
+s41,He-Man and the Masters of the Universe,25,152,2,-1
 s4787,Felipe Esparza: They're Not Going to Laugh at You,27,148,1,1
 s5025,Marlon Wayans: Woke-ish,21,150,1,1
 s3917,Rainbow Jelly,26,145,3,1
 s1431,Pretend It’s a City,24,144,1,1
 s6336,Blood & Treasures,23,146,3,1
-s8202,The Bad Education Movie,24,148,1,1
+s8202,The Bad Education Movie,24,150,1,1
 s7085,Instructions Not Included,25,145,3,1
 s5645,Rampage: President Down,25,142,2,1
 s2692,Brews Brothers,21,130,1,1
@@ -2899,7 +2899,7 @@ s7704,Paper Year,18,111,3,1
 s5884,Naomi and Ely's No Kiss List,27,149,3,1
 s1163,Keeping the Bees,26,133,2,1
 s5146,Padamu Aku Bersujud,28,146,3,1
-s7951,Saving Zoë,26,144,1,-1
+s7951,Saving Zoë,26,144,1,1
 s748,Confusion Na Wa,23,149,3,1
 s4507,Meghnadbodh Rohoshyo,24,149,2,1
 s25,Jeans,29,148,3,1
@@ -2941,7 +2941,7 @@ s6963,Hero,23,133,2,1
 s4445,Jatts in Golmaal,26,145,3,1
 s6452,Chasing Monsters,19,139,3,1
 s3396,ChuChuTV Bedtime Stories & Moral Stories for Kids (Hindi),27,140,1,1
-s5921,BoJack Horseman Christmas Special: Sabrina's Christmas Wish,26,145,1,-1
+s5921,BoJack Horseman Christmas Special: Sabrina's Christmas Wish,26,145,1,1
 s6113,Alien Contact: Outer Space,18,131,1,1
 s5210,One of Us,23,143,1,1
 s7408,Maroon,24,148,3,1
@@ -2974,7 +2974,7 @@ s4932,Pickpockets,26,148,3,1
 s6343,Blue Ruin,24,143,2,1
 s6333,Bleed for This,19,139,2,1
 s7246,Kurt Seyit & Sura,23,147,3,1
-s1074,Motu Patlu Kung Fu Kings 4 The Challenge of Kung Fu Brothers,27,152,2,1
+s1074,Motu Patlu Kung Fu Kings 4 The Challenge of Kung Fu Brothers,27,152,2,-1
 s5587,Mike Birbiglia: Thank God for Jokes,25,144,1,1
 s825,Welcome Home,24,144,1,1
 s7084,Inst@famous,24,147,1,1
@@ -3075,7 +3075,7 @@ s2514,Light in the Dark,21,131,2,1
 s7649,Oliver Stone's Untold History of the United States,20,147,1,1
 s7149,Julius Jr.,28,149,1,1
 s4473,Dovlatov,21,144,2,1
-s2950,Uppity: The Willy T. Ribbs Story,25,152,2,1
+s2950,Uppity: The Willy T. Ribbs Story,25,152,2,-1
 s1308,The Resurrection of Gavin Stone,23,147,3,1
 s3408,Tatu,27,147,3,1
 s7213,Kis Kisko Pyaar Karoon,19,126,2,1
@@ -3389,7 +3389,7 @@ s7632,Nymphomaniac: Volume II,26,150,3,1
 s3967,The Highwaymen,24,146,1,1
 s6658,Earth to Echo,20,138,2,1
 s7461,Miracle,27,147,3,1
-s4864,Ali Wong: Hard Knock Wife,26,144,1,-1
+s4864,Ali Wong: Hard Knock Wife,26,144,1,1
 s3760,Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese,26,149,2,1
 s4358,Manto,16,121,3,-1
 s1745,The Beginning of Life,22,143,2,1
@@ -3402,7 +3402,7 @@ s1889,Good Game: The Beginning,24,137,3,1
 s5973,#cats_the_mewvie,23,149,2,1
 s8696,War Chhod Na Yaar,21,139,3,1
 s7996,Shanghai,24,150,3,1
-s1759,LEGO Ninjago,26,152,1,-1
+s1759,LEGO Ninjago,26,152,1,1
 s8262,The Crying Game,22,131,3,1
 s295,Takizawa Kabuki ZERO 2020 The Movie,20,139,2,1
 s7557,Naledi: A Baby Elephant's Tale,24,145,1,1
@@ -3481,7 +3481,7 @@ s714,Avengers Climate Conundrum,26,150,2,1
 s7357,Loving Annabelle,23,140,3,1
 s563,Austin Powers: International Man of Mystery,25,149,1,1
 s4990,Ricky Gervais: Humanity,23,149,1,1
-s8442,The Nutcracker and the Four Realms,26,145,1,-1
+s8442,The Nutcracker and the Four Realms,26,145,1,1
 s1862,Dil,28,148,3,1
 s3687,The Last Czars,22,138,2,1
 s6867,GoldenEye,22,142,1,1
@@ -3543,7 +3543,7 @@ s1032,Into the Beat,24,151,3,1
 s3007,Motichoor Chaknachoor,28,147,3,1
 s624,Mommy Issues,20,129,3,1
 s2906,MR. RIGHT,25,149,3,1
-s7647,Oh No! It's an Alien Invasion,22,130,3,1
+s7647,Oh No! It's an Alien Invasion,22,131,3,1
 s8589,Tientsin Mystic,21,122,3,1
 s555,RattleSnake - The Ahanna Story,26,150,3,1
 s6387,Buffalo Boys,20,121,2,1
@@ -3568,7 +3568,7 @@ s7307,Lila & Eve,27,143,2,1
 s6422,Caregiver,24,151,2,1
 s2746,The Runaways,25,150,3,1
 s4668,​​Kuch Bheege Alfaaz,20,127,3,1
-s1551,A California Christmas,27,152,2,1
+s1551,A California Christmas,27,152,2,-1
 s2002,Raising Victor Vargas,28,151,3,1
 s5728,Inborn Pair,22,145,3,1
 s4572,Jagga Jasoos,22,149,3,1
@@ -3579,7 +3579,7 @@ s653,Osuofia in London II,22,150,3,1
 s5030,Seven Seconds,22,117,2,1
 s35,Tayo and Little Wizards,22,131,1,1
 s4229,Whitney Cummings: Money Shot,25,145,1,1
-s4718,Dinotrux Supercharged,26,145,1,-1
+s4718,Dinotrux Supercharged,26,145,1,1
 s2952,"Faith, Hope & Love",24,150,3,1
 s2573,Roped,24,132,3,1
 s4144,Sparta,23,142,3,1
@@ -3612,7 +3612,7 @@ s3325,The Massively Mixed-Up Middle School Mystery,22,138,2,1
 s6685,Elles étaient en guerre 1939-1945,22,142,2,1
 s6384,Bruno and Boots: The Wizzle War,22,148,2,1
 s8477,The Real Football Factories,19,132,3,1
-s3824,"Heidi, bienvenida a casa",27,152,2,1
+s3824,"Heidi, bienvenida a casa",27,152,2,-1
 s5813,Caught on Camera,23,144,3,1
 s8009,Shorgul,23,131,2,1
 s2683,For the Broken Hearted,24,152,3,1
@@ -3675,7 +3675,7 @@ s5697,1000 Rupee Note,23,150,2,1
 s4741,Invisible,22,129,3,1
 s7688,P,25,149,2,1
 s5516,Dear Zindagi,21,138,3,1
-s23,Avvai Shanmughi,25,152,2,1
+s23,Avvai Shanmughi,25,152,2,-1
 s4103,Chameli,24,147,2,1
 s768,Creator's File: GOLD,23,150,2,1
 s2974,Hakkunde,23,151,3,1
@@ -3848,7 +3848,7 @@ s6258,Be Somebody,28,148,3,1
 s6813,Frozen Planet: The Epic Journey,22,140,1,1
 s657,Love Is a Story,21,139,3,1
 s7513,Morya,22,131,2,1
-s578,Masameer County,27,152,2,1
+s578,Masameer County,27,152,2,-1
 s7214,Kiss the Girls,22,142,1,1
 s3223,Mythomaniac,25,144,3,1
 s7463,Mirzya,24,143,3,1
@@ -3883,7 +3883,7 @@ s1948,"Whose Vote Counts, Explained",28,146,1,1
 s905,Sleepless,27,143,1,1
 s823,The Wind,21,145,1,1
 s7644,Oh My Ghost 2,23,136,3,1
-s6871,Golmaal: Fun Unlimited,25,152,2,1
+s6871,Golmaal: Fun Unlimited,25,152,2,-1
 s1652,The Christmas Chronicles: Part Two,26,151,2,1
 s8534,The Traffickers,25,150,2,1
 s3563,HERO MASK,22,149,3,1
@@ -4217,7 +4217,7 @@ s2057,Hotel for Dogs,26,146,2,1
 s1438,Surviving Death,19,148,2,1
 s7098,Iron Man & Captain America: Heroes United,24,139,2,1
 s1022,Peepli Live,22,143,3,1
-s78,Little Singham - Black Shadow,27,152,2,1
+s78,Little Singham - Black Shadow,27,152,2,-1
 s1852,One on One,18,142,2,1
 s2712,Money Heist: The Phenomenon,25,140,2,1
 s5466,The Dream Job,28,149,2,1
@@ -4289,7 +4289,7 @@ s1940,Dedh Ishqiya,27,144,3,1
 s5680,Asperger's Are Us,22,123,1,1
 s6030,A Boy Called Po,25,154,2,-1
 s668,Glee,22,143,3,1
-s719,Life of Crime,25,152,2,1
+s719,Life of Crime,25,152,2,-1
 s3105,Como caído del cielo,25,150,3,1
 s4201,Friends from College,20,134,2,1
 s3547,Luo Bao Bei,21,150,2,1
@@ -4329,7 +4329,7 @@ s149,HQ Barbers,26,142,1,1
 s1153,Rainbow High,27,151,1,1
 s7370,Mad Money,25,150,1,1
 s2293,Little Singham,24,150,2,1
-s1371,The Dig,27,152,2,1
+s1371,The Dig,27,152,2,-1
 s8028,Siren,28,150,1,1
 s4788,Joan Rivers: Don't Start with Me,22,120,1,1
 s1051,Ride or Die,26,141,3,1
@@ -4444,7 +4444,7 @@ s5316,Ryan Hamilton: Happy Face,22,148,1,1
 s323,You're My Destiny,26,150,3,1
 s7407,Maron,24,150,1,1
 s3304,Luccas Neto in: Summer Camp,28,148,3,1
-s2544,Unbreakable Kimmy Schmidt: Kimmy vs. the Reverend,26,152,1,-1
+s2544,Unbreakable Kimmy Schmidt: Kimmy vs. the Reverend,26,152,1,1
 s742,Blind Intersections,18,117,2,1
 s2539,Wedy Atkalam,20,147,3,1
 s1171,Secret Magic Control Agency,29,150,2,1
@@ -4498,7 +4498,7 @@ s2589,Oh Yuck,24,152,2,-1
 s5570,Samurai Gourmet,24,141,2,1
 s8060,Soul Surfer,19,122,3,1
 s1616,Ink Master,22,142,1,1
-s7762,Power Rangers Dino Charge,26,144,1,-1
+s7762,Power Rangers Dino Charge,26,144,1,1
 s4250,Tom Papa Live in New York City,23,131,1,1
 s2307,A Touch of Green,25,146,2,1
 s5685,Miss in Kiss,28,146,3,1
@@ -4548,7 +4548,7 @@ s2245,Hole in the Wall,19,120,2,1
 s8147,Take Me Home Tonight,27,134,2,-1
 s7310,Lion's Heart,25,142,2,1
 s3153,My Wife and I,19,124,3,1
-s5334,The Saint,29,143,1,-1
+s5334,The Saint,29,143,1,1
 s5321,Dinotrux,23,148,1,1
 s1914,I'm Leaving Now,27,150,2,1
 s8047,Sniper: Special Ops,27,149,2,1
@@ -4699,7 +4699,7 @@ s3333,Christmas Survival,23,147,1,1
 s7451,Mi Shivajiraje Bhosale Boltoy,24,137,3,1
 s3850,Secret of Success,25,145,3,1
 s7636,Océans,20,142,2,1
-s7506,Monty Don's Italian Gardens,19,150,3,-1
+s7506,Monty Don's Italian Gardens,19,150,3,1
 s6667,Eeda,22,121,3,1
 s2893,Hyena,23,141,3,1
 s7282,Left Behind,26,149,3,1
@@ -4978,7 +4978,7 @@ s6210,Backfire,21,122,3,1
 s5176,Lady Dynamite,29,149,1,1
 s3121,Ultraviolet,22,125,3,1
 s2219,Norsemen,22,148,2,1
-s2876,Followers,27,152,2,1
+s2876,Followers,27,152,2,-1
 s7583,Nibunan,26,146,3,1
 s4781,First Team: Juventus,25,149,2,1
 s7818,Rachel Getting Married,24,142,2,1
@@ -5031,7 +5031,7 @@ s336,Freedomland,28,149,2,1
 s7107,"It's Okay, Buddy",22,127,3,1
 s1994,Signs,25,152,3,-1
 s6639,Down The Fence,22,150,1,1
-s6215,Bad Match,26,144,1,-1
+s6215,Bad Match,26,144,1,1
 s567,Charlie's Angels,27,149,2,1
 s1853,Power Rangers Beast Morphers,25,147,1,1
 s4659,Stretch Armstrong & the Flex Fighters,23,148,1,1
@@ -5056,7 +5056,7 @@ s1647,Mosul,25,134,3,1
 s7885,Roger Corman's Death Race 2050,22,144,2,1
 s1471,Alaska Is a Drag,25,148,2,1
 s8487,The Ring,27,146,2,1
-s502,Mama Drama,25,152,2,1
+s502,Mama Drama,25,152,2,-1
 s6329,Black Snow,24,150,3,1
 s2105,Dark Forces,25,149,3,1
 s5665,3 Türken & ein Baby,24,145,2,1
@@ -5095,7 +5095,7 @@ s2236,Dark Desire,27,152,3,1
 s3768,Rock My Heart,25,147,3,1
 s6637,Doubles Cause Troubles,22,134,3,1
 s3533,Ee Nagaraniki Emaindi,24,149,3,1
-s1611,Angels & Demons,26,152,1,-1
+s1611,Angels & Demons,26,152,1,1
 s2279,Mary Kom,26,147,3,1
 s7124,Jeopardy!,26,150,1,1
 s1105,An American Girl: McKenna Shoots for the Stars,22,129,3,1
@@ -5105,7 +5105,7 @@ s5984,100 Years: One Woman's Fight for Justice,20,149,1,1
 s6497,Cleopatra Jones,24,138,2,1
 s1544,Black Ink Crew New York,22,142,1,1
 s2652,Absurd Planet,24,149,3,1
-s3362,Tunnel,24,123,3,-1
+s3362,Tunnel,24,123,3,1
 s4433,Dhoondte Reh Jaoge,27,148,3,1
 s6532,Convict,20,125,2,1
 s369,Khawatir,23,150,2,1
@@ -5136,7 +5136,7 @@ s8787,You Can Tutu,25,146,1,1
 s2037,#Alive,28,149,3,1
 s6441,Chal Mere Bhai,24,140,3,1
 s3696,Rabbids Invasion,25,149,2,1
-s271,Beckett,26,152,1,-1
+s271,Beckett,26,152,1,1
 s2240,Sylvia,22,146,3,1
 s4111,The Breaker Upperers,26,147,3,1
 s7689,P Se PM Tak,22,124,3,1
@@ -5168,7 +5168,7 @@ s45,Jaws: The Revenge,27,149,3,1
 s261,The Defeated,24,151,3,1
 s356,The Lincoln Lawyer,27,148,2,1
 s2027,Poshter Girl,27,148,3,1
-s410,Chhota Bheem & Krishna: Pataliputra- City of the Dead,26,144,1,-1
+s410,Chhota Bheem & Krishna: Pataliputra- City of the Dead,26,144,1,1
 s3424,Black Money Love,26,149,3,1
 s2368,An Egyptian Story,24,144,3,1
 s4609,Three Wives One Husband,25,147,3,1
@@ -5511,7 +5511,7 @@ s5418,I Am Michael,25,146,2,1
 s3576,45 rpm,24,147,3,1
 s6574,Dayveon,22,130,2,1
 s5882,A Very Murray Christmas,24,147,2,1
-s6415,Can't Hardly Wait,27,152,2,1
+s6415,Can't Hardly Wait,27,152,2,-1
 s7783,Power Rangers Time Force,23,136,1,1
 s4697,Stay Here,21,151,1,1
 s2122,Seventh Son,24,144,2,1
@@ -5610,7 +5610,7 @@ s755,A Private War,27,147,2,1
 s1366,Zig & Sharko,27,146,2,1
 s1042,GANTZ:O,24,146,3,1
 s2727,Hasee Toh Phasee,22,146,3,1
-s3182,The Irishman: In Conversation,26,152,1,-1
+s3182,The Irishman: In Conversation,26,152,1,1
 s8677,Viking Destiny,27,148,2,1
 s3305,Sam & Cat,22,131,2,1
 s324,30 Rock,27,146,1,1
@@ -5691,7 +5691,7 @@ s5659,Sense8,23,145,3,1
 s7518,Mr. Deeds,27,149,2,1
 s7485,Money Talks,23,149,2,1
 s4265,People Just Do Nothing,26,146,2,1
-s385,Hostage House,26,152,1,-1
+s385,Hostage House,26,152,1,1
 s3122,Don't F**k with Cats: Hunting an Internet Killer,24,142,2,1
 s1990,Baby,27,152,3,1
 s4254,Black Mirror: Bandersnatch,26,150,3,1
@@ -5719,7 +5719,7 @@ s581,Mobile Suit Gundam Hathaway,23,151,3,1
 s169,Osmosis Jones,22,150,3,1
 s7028,Hunter's Prayer,24,138,2,1
 s2097,Million Dollar Beach House,29,149,1,1
-s6931,Harold Shipman - Driven to Kill,19,150,3,-1
+s6931,Harold Shipman - Driven to Kill,19,150,3,1
 s2442,What's Up?,26,150,3,1
 s1133,Seven Souls in the Skull Castle: Season Wind,27,152,3,1
 s6812,Frozen Planet: On Thin Ice,22,144,1,1
@@ -6249,7 +6249,7 @@ s1302,Behind Her Eyes,25,153,3,-1
 s4690,The Innocents,24,148,3,1
 s4217,Déjà Vu,27,147,3,1
 s6429,Casino Tycoon,27,150,3,1
-s2160,Work It,26,152,1,-1
+s2160,Work It,26,152,1,1
 s6693,Employee of the Month,25,129,2,1
 s6158,An Interview with God,26,141,2,1
 s6021,5CM,25,147,2,1
@@ -6266,7 +6266,7 @@ s553,Holiday on Mars,28,149,2,1
 s1533,Anitta: Made In Honório,24,148,2,1
 s6443,Chandani: The Daughter of the Elephant Whisperer,29,148,2,1
 s3234,Pranaam,25,151,3,1
-s733,To All the Boys: Always and Forever - The Afterparty,26,152,1,-1
+s733,To All the Boys: Always and Forever - The Afterparty,26,152,1,1
 s3885,Ash vs. Evil Dead,29,148,3,1
 s6644,Dragonheart: A New Beginning,25,144,2,1
 s3504,Criminal: Spain,23,151,3,1
@@ -6380,7 +6380,7 @@ s2878,Six Windows in the Desert,25,148,1,1
 s5890,Results,26,148,2,1
 s6041,A Haunting at Silver Falls: The Return,26,148,2,1
 s7854,Remember,24,148,2,1
-s579,Memoirs of a Geisha,25,152,2,1
+s579,Memoirs of a Geisha,25,152,2,-1
 s3950,Tango,22,138,3,1
 s1394,Sightless,26,146,1,1
 s1768,The Impossible,20,139,1,1
@@ -6491,7 +6491,7 @@ s4714,Baaghi,27,142,2,1
 s2912,A Shaun the Sheep Movie: Farmageddon,27,143,2,1
 s3862,Cupcake & Dino - General Services,26,151,2,1
 s8744,Wildlife,27,146,2,1
-s936,Madagascar 3: Europe's Most Wanted,27,152,2,1
+s936,Madagascar 3: Europe's Most Wanted,27,152,2,-1
 s1614,Effie Gray,27,151,3,1
 s5356,Locust,22,148,3,1
 s3785,March Comes in Like a Lion,23,143,3,1
@@ -6556,7 +6556,7 @@ s6795,Frances Ha,24,135,3,1
 s8535,The Tribes of Palos Verdes,24,144,3,1
 s7729,Perfect Stranger,24,131,1,1
 s2555,The Hollow,25,143,2,1
-s1008,Motu Patlu in Octupus World,27,152,2,1
+s1008,Motu Patlu in Octupus World,27,152,2,-1
 s2934,Polaroid,26,150,1,1
 s5407,Unriddle,22,147,3,1
 s707,Elite Short Stories: Omar Ander Alexis,18,110,3,1
@@ -6576,7 +6576,7 @@ s4397,The Giant,27,145,2,1
 s1109,Irul,26,151,2,1
 s422,Chhota Bheem: Dus Pe Dus,25,136,1,1
 s5799,Jandino: Whatever it Takes,25,145,1,1
-s5994,17 Again,26,144,1,-1
+s5994,17 Again,26,144,1,1
 s3966,Santa Clarita Diet,26,149,3,1
 s6565,Dark Chocolate (Bengali Version),24,142,3,1
 s3790,Killer Ratings,20,143,3,1
@@ -6825,7 +6825,7 @@ s8423,The Mind of a Chef,20,148,1,1
 s5612,Grillo vs Grillo,21,148,1,1
 s448,The Twilight Saga: Breaking Dawn: Part 1,18,121,2,1
 s5107,Bibi & Tina: Tohuwabohu Total,26,151,2,1
-s532,Rise: Ini Kalilah,25,152,2,1
+s532,Rise: Ini Kalilah,25,152,2,-1
 s1062,Jeffrey Epstein: Filthy Rich,23,147,2,1
 s8231,The Bulbul's Nest,27,147,2,1
 s8413,The Man Who Would Be Polka King,19,137,2,1
@@ -6933,7 +6933,7 @@ s125,Pororo - The Little Penguin,27,148,2,1
 s4770,GODZILLA City on the Edge of Battle,24,150,3,1
 s6277,Behzat Ç.,23,149,3,1
 s6194,ATM,33,149,3,-1
-s86,Pokémon Master Journeys: The Series,25,152,2,1
+s86,Pokémon Master Journeys: The Series,25,152,2,-1
 s5808,Glitter Force,23,150,2,1
 s3100,Grand-Daddy Day Care,23,150,2,1
 s8427,The Monster,22,150,2,1

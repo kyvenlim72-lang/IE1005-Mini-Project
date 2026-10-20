@@ -31,4 +31,6 @@ M1/M2 supply the read–inspect–clean–plot workflow; M4 supplies the split�
 
 Text vectorization, Naive Bayes, pipeline cross-validation, additional evaluation metrics and reproducibility/export helpers are marked as extensions E1–E5. Most modelling extensions already existed in the original notebook. The notebook includes references for these APIs rather than claiming they came from the course examples.
 
-Repeated normalized descriptions retain their first record, following the original approach. Conflicting labels among duplicates are a limitation. A single split and short synopses do not establish reliable ratings for new titles; the demonstration is a project model, not a content-rating service.
+Repeated exact descriptions retain their first record, following the original approach. Conflicting labels among duplicates are a limitation. A single split and short synopses do not establish reliable ratings for new titles; the demonstration is a project model, not a content-rating service.
+
+The cleaning cell is preserved verbatim from `IE0005.ipynb`; the following adapter changes column names and prepares derived features and audit exports without further filtering or normalizing the data.
