@@ -1,0 +1,207 @@
+{
+  "raw_rows": 8807,
+  "clean_rows": 8717,
+  "excluded_counts": {
+    "Unrated label": 83,
+    "Missing rating": 4,
+    "Unexpected rating": 3
+  },
+  "group_counts": {
+    "Adult": 4009,
+    "Teen": 3800,
+    "Kids": 908
+  },
+  "train_rows": 5233,
+  "valid_rows": 1740,
+  "test_rows": 1744,
+  "repeated_descriptions": 31,
+  "selected_model": "Naive Bayes: both",
+  "validation_results": [
+    {
+      "Model": "Majority baseline",
+      "Accuracy": 0.4603448275862069,
+      "Macro F1": 0.2101534828807556
+    },
+    {
+      "Model": "Decision tree: both",
+      "Accuracy": 0.5603448275862069,
+      "Macro F1": 0.5751617393302574
+    },
+    {
+      "Model": "Naive Bayes: genre",
+      "Accuracy": 0.6235632183908046,
+      "Macro F1": 0.6617335259659992
+    },
+    {
+      "Model": "Naive Bayes: description",
+      "Accuracy": 0.5908045977011495,
+      "Macro F1": 0.5996073462605124
+    },
+    {
+      "Model": "Naive Bayes: both",
+      "Accuracy": 0.6626436781609195,
+      "Macro F1": 0.6825240353859546
+    }
+  ],
+  "test_results": [
+    {
+      "Model": "Majority baseline",
+      "Accuracy": 0.46043577981651373,
+      "Macro F1": 0.21018191336212536
+    },
+    {
+      "Model": "Decision tree: both",
+      "Accuracy": 0.5665137614678899,
+      "Macro F1": 0.5689414322943107
+    },
+    {
+      "Model": "Naive Bayes: genre",
+      "Accuracy": 0.6307339449541285,
+      "Macro F1": 0.6560980376314999
+    },
+    {
+      "Model": "Naive Bayes: description",
+      "Accuracy": 0.5980504587155964,
+      "Macro F1": 0.5931647862790353
+    },
+    {
+      "Model": "Naive Bayes: both",
+      "Accuracy": 0.6381880733944955,
+      "Macro F1": 0.6505820927804193
+    }
+  ],
+  "confusion_matrix": [
+    [
+      131,
+      44,
+      7
+    ],
+    [
+      56,
+      453,
+      250
+    ],
+    [
+      11,
+      263,
+      529
+    ]
+  ],
+  "class_order": [
+    "Kids",
+    "Teen",
+    "Adult"
+  ],
+  "classification_report": {
+    "Kids": {
+      "precision": 0.6616161616161617,
+      "recall": 0.7197802197802198,
+      "f1-score": 0.6894736842105263,
+      "support": 182.0
+    },
+    "Teen": {
+      "precision": 0.5960526315789474,
+      "recall": 0.5968379446640316,
+      "f1-score": 0.5964450296247531,
+      "support": 759.0
+    },
+    "Adult": {
+      "precision": 0.6730279898218829,
+      "recall": 0.6587795765877957,
+      "f1-score": 0.6658275645059786,
+      "support": 803.0
+    },
+    "accuracy": 0.6381880733944955,
+    "macro avg": {
+      "precision": 0.6435655943389973,
+      "recall": 0.6584659136773491,
+      "f1-score": 0.6505820927804193,
+      "support": 1744.0
+    },
+    "weighted avg": {
+      "precision": 0.6383369063128066,
+      "recall": 0.6381880733944955,
+      "f1-score": 0.6380994967372731,
+      "support": 1744.0
+    }
+  },
+  "genre_percentages": [
+    {
+      "Genre": "International Movies",
+      "Kids": 1.8,
+      "Teen": 53.67,
+      "Adult": 44.53
+    },
+    {
+      "Genre": "Dramas",
+      "Kids": 1.24,
+      "Teen": 49.24,
+      "Adult": 49.52
+    },
+    {
+      "Genre": "Comedies",
+      "Kids": 6.19,
+      "Teen": 57.06,
+      "Adult": 36.75
+    },
+    {
+      "Genre": "International TV Shows",
+      "Kids": 2.12,
+      "Teen": 42.22,
+      "Adult": 55.67
+    },
+    {
+      "Genre": "Action & Adventure",
+      "Kids": 0.0,
+      "Teen": 51.61,
+      "Adult": 48.39
+    },
+    {
+      "Genre": "Documentaries",
+      "Kids": 5.65,
+      "Teen": 53.97,
+      "Adult": 40.38
+    },
+    {
+      "Genre": "TV Dramas",
+      "Kids": 1.08,
+      "Teen": 38.71,
+      "Adult": 60.22
+    },
+    {
+      "Genre": "Independent Movies",
+      "Kids": 0.92,
+      "Teen": 27.69,
+      "Adult": 71.4
+    },
+    {
+      "Genre": "Children & Family Movies",
+      "Kids": 50.39,
+      "Teen": 49.35,
+      "Adult": 0.26
+    },
+    {
+      "Genre": "Romantic Movies",
+      "Kids": 3.22,
+      "Teen": 64.34,
+      "Adult": 32.44
+    }
+  ],
+  "demo_predictions": [
+    {
+      "Title": "Forest Friends",
+      "PredictedGroup": "Kids"
+    },
+    {
+      "Title": "The Missing Witness",
+      "PredictedGroup": "Adult"
+    },
+    {
+      "Title": "Second Chance",
+      "PredictedGroup": "Teen"
+    }
+  ],
+  "training_word_mean": 23.860118478884004,
+  "genre_features": 42,
+  "word_features": 2000
+}

@@ -1,0 +1,4 @@
+RatingGroup,Train,Validation,Test
+Kids,545,181,182
+Teen,2283,758,759
+Adult,2405,801,803
